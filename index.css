@@ -1,0 +1,178 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  margin: auto;
+}
+
+/* title================================= */
+
+#title {
+  background-color: white;
+  text-align: left;
+  padding: 3% 10%;
+}
+
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.order-now {
+  margin: 10% 3% 5% 0;
+}
+
+.empanada-pic {
+  width: 90%;
+  padding-top: 80px;
+  padding-left: 120px;
+}
+
+.navbar-brand {
+  font-family: 'Lato', sans-serif;
+  font-size: 2rem;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: 'Lato', sans-serif;
+}
+
+.nav-item {
+  padding: 0 1rem;
+}
+
+/* menu================================== */
+#Menu {
+  background-color: #f1d00a;
+  text-align: center;
+  padding: 3% 10%;
+  margin: auto;
+  color: black;
+
+}
+
+.menu-img {
+  width: 90%;
+  padding-top: 50px;
+}
+
+.our-menu {
+  font-size: 2rem;
+  line-height: 1.5;
+  padding-top: 70px;
+}
+
+.paragraph-text {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Testimonials=========================== */
+#Testimonials {
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding: 5% 10%;
+}
+
+.testimonial-image {
+  width: 15%;
+  border-radius: 20%;
+  margin: 30px;
+
+}
+.testimonial-text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+/* footer============================== */
+#footer {
+  background-color: #f1d00a;
+  text-align: center;
+  padding-top: 2%;
+}
+
+.container-fluid {
+  padding-bottom: 20px;
+}
+
+/* Platos Tipicos======================= */
+#Platos-Tipicos{
+  padding: 5% 10%;
+  text-align: center;
+  background-color: white;
+}
+.platostipicos {
+width: 20rem;
+height: 12.5rem;
+}
+
+.platostext {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  padding-top: 70px;
+}
+
+
+/* Kids Menu=============================== */
+
+#Kids-Menu {
+  padding: 5% 10%;
+  text-align: center;
+  background-color: #f1d00a;
+}
+
+.salchipapaimg {
+width: 60%;
+}
+
+/* Extras==================================== */
+
+#Extras {
+  padding: 5% 10%;
+  text-align: center;
+  background-color: white;
+}
+
+/* Drinks==================================== */
+
+#Drinks {
+  padding: 5% 10%;
+  text-align: center;
+  background-color: #f1d00a;
+}
+
+/* Postres=================================== */
+
+#Postres{
+  padding: 5% 10%;
+  text-align: center;
+  background-color: white;
+}
+
+/* footer==================================== */
+
+.fab {
+  color: black;
+  padding-bottom: 3%;
+}
+
+/* Hours and location========================= */
+
+#Hours-Location {
+  padding: 5% 10%;
+  text-align: center;
+  background-color: white
+}
+
+hr {
+  border: dotted black;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+  display: inline-block;
+  font-size: 14px;
+}
